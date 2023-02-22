@@ -22,7 +22,7 @@ Dün çalıştığımız projedeki görevlere `son teslim tarihi (deadline)` ekl
 - [MDN sayfasında](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#examples) `Date` objesinin yapısına ve örneklerine göz atın.
 - `date-fns` kütüphanesinin dokümantasyon sayfasını ve özellikle `formatDistanceToNow` ve `differenceInDays` fonksiyonlarını inceleyin.
 - [date-fns](https://date-fns.org/docs/Getting-Started#installation) kütüphanesini projeye ekleyin.
-- Task componentı içerisinde kullanılan görev objeleri içerisindeki deadline değerlerini formatDistanceToNow ve differenceInDays fonksiyonları ile kullanmaya çalışın.
+- Task componentı içerisinde kullanılan görev obje0leri içerisindeki deadline değerlerini formatDistanceToNow ve differenceInDays fonksiyonları ile kullanmaya çalışın.
 - Deadline değerini istediğiniz formata getirdikten app.css içerisinde bu kısım için hazırlanmış classları bulun ve kullanın.
 
 - [tailwindcss](https://tailwindcss.com/) frameworkünün anasayfasını inceleyin ve projenize nasıl ekleyebileceğinizi bulun.
